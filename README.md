@@ -52,6 +52,14 @@ Write the detailed procedure here
 **Output Timing Waveform**
 
 **Result:**
+Logic Gate for full adder
+<img width="1920" height="1080" alt="Full adder Logic Diagram" src="https://github.com/user-attachments/assets/08a2693f-0c88-4dee-9d85-89692222bb95" />
+Clock Pulse for Full Adder
+<img width="1920" height="1080" alt="Full adder Clock Pulse" src="https://github.com/user-attachments/assets/a8479fe1-ec3d-4a1a-9dca-2357c89b4cb5" />
+Logic gate for Full Subractor
+<img width="1920" height="1080" alt="Full Subractor Logic gate" src="https://github.com/user-attachments/assets/494311f6-1b86-4d77-85fc-159288cb92cc" />
+Clock Pulse for Full subractor
+<img width="1920" height="1080" alt="Full subractor Clock Pulse" src="https://github.com/user-attachments/assets/b5038b84-7ec1-484f-9ffe-7bcfd5fab767" />
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
